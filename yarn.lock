@@ -90,10 +90,10 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@fullcalendar/core@^4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@fullcalendar/core/-/core-4.0.2.tgz#59ef822ba0c4bda60609d8b2d9f71bee8875505b"
-  integrity sha512-5DBjqoQretok6L0GNpcqkr0HnCNDzRH0REWJDeTTyHGi62V+8MC3IqZkpmDrFITTkIyDrvf8GHl3WhTI0bjYPQ==
+"@fullcalendar/core@^4.4.2":
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/@fullcalendar/core/-/core-4.4.2.tgz#864abe98cce4497a163c01a8fc30389f15d3d4e1"
+  integrity sha512-vq7KQGuAJ1ieFG5tUqwxwUwmXYtblFOTjHaLAVHo6iEPB52mS7DS45VJfkhaQmX4+5/+BHRpg82G1qkuAINwtg==
 
 acorn-jsx@^5.0.0:
   version "5.0.1"
