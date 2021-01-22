@@ -6,7 +6,7 @@ ruby RUBY_VERSION
 
 gem "decidim", git: "https://github.com/decidim/decidim"
 gem "decidim-calendar", path: "."
-gem "decidim-consultations"
+gem "decidim-consultations", ">= 0.21.0"
 
 gem "puma", ">= 4.3"
 gem "uglifier", "~> 4.1"
